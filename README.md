@@ -157,3 +157,4 @@ See `javascript-repos-build-contract.md` in the Testable (Tools) project for
 the full 103-metric roster, the repair notes, and the live pin-resolution
 method (npm registry `engines.node` ranges, prereleases excluded).
 
+<!-- dummy PR 2026-11-13 09:21:05 -->
